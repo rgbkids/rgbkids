@@ -1,4 +1,4 @@
-Qiita 出来る限り短く説明するReactJS入門 https://qiita.com/rgbkids/items/8ec309d1bf5e203d2b19
+Hi, there! https://dev.to/vteacher/let-s-make-a-web-application-with-react-server-components-5dmg
 
 <!--
 **rgbkids/rgbkids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
