@@ -1,4 +1,21 @@
-Hi, there! https://dev.to/vteacher/let-s-make-a-web-application-with-react-server-components-5dmg
+Hi, there! https://dev.to/vteacher
+
+# nrstate
+State for React Server Components (RSC) on Next.js
+
+N: Next.js
+R: React Server Components
+State
+
+# Features
+✨ Next.js 13 support, for RSC
+
+Read/Write state also works on Client-component.
+Read state also works on Server-component.
+
+# Quick start
+nrstate
+https://www.npmjs.com/package/nrstate
 
 <!--
 **rgbkids/rgbkids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
