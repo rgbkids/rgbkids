@@ -1,4 +1,4 @@
-Hi, there! https://dev.to/vteacher
+Hi, there! [https://dev.to/vteacher](https://dev.to/vteacher/wow-server-actions-are-now-stable-from-nextjs-14-dramatic-changes-in-react-and-nexts-form-1j0)
 
 # nrstate
 State for React Server Components (RSC) on Next.js
