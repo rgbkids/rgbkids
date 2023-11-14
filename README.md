@@ -1,4 +1,4 @@
-Hi, there! [https://dev.to/vteacher](https://dev.to/vteacher/wow-server-actions-are-now-stable-from-nextjs-14-dramatic-changes-in-react-and-nexts-form-1j0)
+Hi, there!  
 
 # nrstate
 State for React Server Components (RSC) on Next.js
@@ -13,8 +13,7 @@ State
 Read/Write state also works on Client-component.
 Read state also works on Server-component.
 
-# Quick start
-nrstate
+# Quick start  
 https://www.npmjs.com/package/nrstate
 
 <!--
