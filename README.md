@@ -8,7 +8,7 @@ R: React Server Components
 State
 
 # Features
-✨ Next.js 13 support, for RSC
+✨ Next.js 14 support, for RSC
 
 Read/Write state also works on Client-component.
 Read state also works on Server-component.
